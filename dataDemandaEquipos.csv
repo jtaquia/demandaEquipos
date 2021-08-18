@@ -44,12 +44,12 @@ Date,demandaEquipos,modelo
 4/10/2016,0,xiaomiX3
 4/17/2016,0,xiaomiX3
 4/24/2016,0,xiaomiX3
-5/1/2016,0,xiaomiX3
-5/8/2016,0,xiaomiX3
-5/15/2016,0,xiaomiX3
+5/1/2016,5,xiaomiX3
+5/8/2016,3,xiaomiX3
+5/15/2016,10,xiaomiX3
 5/22/2016,8,xiaomiX3
 5/29/2016,15,xiaomiX3
-6/5/2016,10,xiaomiX3
+6/5/2016,40,xiaomiX3
 6/12/2016,100,xiaomiX3
 6/21/2015,0,GalaxyS20
 6/28/2015,0,GalaxyS20
@@ -87,8 +87,8 @@ Date,demandaEquipos,modelo
 2/7/2016,0,GalaxyS20
 2/14/2016,0,GalaxyS20
 2/21/2016,0,GalaxyS20
-2/28/2016,0,GalaxyS20
-3/6/2016,0,GalaxyS20
+2/28/2016,4,GalaxyS20
+3/6/2016,8,GalaxyS20
 3/13/2016,6,GalaxyS20
 3/20/2016,18,GalaxyS20
 3/27/2016,32,GalaxyS20
@@ -102,7 +102,7 @@ Date,demandaEquipos,modelo
 5/22/2016,10,GalaxyS20
 5/29/2016,9,GalaxyS20
 6/5/2016,11,GalaxyS20
-6/12/2016,16,GalaxyS20
+6/12/2016,26,GalaxyS20
 6/21/2015,14,iphone8
 6/28/2015,28,iphone8
 7/5/2015,23,iphone8
